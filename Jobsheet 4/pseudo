@@ -1,0 +1,27 @@
+Algoritma : Perpustakaan
+Deklarasi :
+String nam_peminjam,nama_buku
+int NIM,Jumlah_buku,Jumlah_hari_pinjam
+double harga_buku,jumlah_bayar
+Proses :
+print"Masukkan NIM"
+get NIM
+print "Masukkan Nama Peminjam"
+get nam_peminjam
+print"Masukkan Nama Buku"
+get nama_buku
+print"Masukkan Jumlah Buku"
+get Jumlah_buku
+print"Masukkan Harga Buku"
+get harga_buku
+print"Masukkan Jumlah Hari Peminjaman"
+get Jumlah_hari_pinjam
+
+bayar= Jumlah_buku*harga_buku
+
+print NIM
+print nam_peminjam
+print nama_buku
+print Jumlah_buku
+print Jumlah_hari_pinjam
+print bayar
